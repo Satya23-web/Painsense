@@ -1,0 +1,6 @@
+.venv/
+data/raw/
+data/processed/
+saved_models/
+__pycache__/
+*.pyc
